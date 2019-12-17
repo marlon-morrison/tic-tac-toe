@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+}
+.box {
+    border:2px solid #000;
+    height: 200px;
+    text-align: center;
+    padding-top: 55px;
+}
+.letter {
+    font-size: 64px;
+    text-align: center;
+
+}
