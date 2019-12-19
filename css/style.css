@@ -1,3 +1,6 @@
+body {
+    background: linear-gradient(white,gray);;
+}
 header {
     text-align: center;
 }
@@ -11,4 +14,17 @@ header {
     font-size: 64px;
     text-align: center;
 
+}
+#winner {
+    position: absolute;
+    top: 266px;
+    font-size: 135px;
+    left: 479px;
+    color: #fff;
+    background: #000;
+    box-shadow: -6px 7px 10px #000, 13px 10px 10px #000;
+}
+#reset {
+    font-size: 40px;
+    margin-left: 450px;
 }
