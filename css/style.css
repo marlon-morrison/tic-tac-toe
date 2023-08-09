@@ -25,6 +25,8 @@ header {
     box-shadow: -6px 7px 10px #000, 13px 10px 10px #000;
 }
 #reset {
-    font-size: 40px;
-    margin-left: 450px;
+    font-size: 31px;
+    position: absolute;
+    right: 182px;
+    top: 14px;
 }
